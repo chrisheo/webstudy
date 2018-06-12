@@ -1,0 +1,7 @@
+버퍼는 왜있는가.
+test15의 에러이유.
+클라이언트 접속을 왜 안받는지. 유동ip 고정ip
+jpg는 send가 안되는지.
+database오류가 난다.
+password에 이름이 들어감 app4.js 254번째줄
+app5.js this.encryptPassword 함수가 아니라함
