@@ -24,7 +24,7 @@ HTML을 이용해서 웹 페이지를 제작할 경우 전반적인 틀에서 �
 - 그리드
   - grid-template-columns 
     - 부모태그로 감싸서 고차원적 디자인
-    - &<div>&, &<span>&
+    - &lt;script<div>&lt;/script>, &<span>&
  
 """
 > Inline style, External style, Internal style
