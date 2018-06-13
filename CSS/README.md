@@ -10,11 +10,12 @@
 - 여백 생성  
   - margin
   - padding
- - 박스
+- 박스
   - display:inline-block
- - 글자 
+- 글자 
   - color
   - font-size
   - text-align
- - css파일 불러오기
+- css파일 불러오기
   - <link rel="stylesheet" href="style.css">
+"""
