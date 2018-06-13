@@ -12,7 +12,7 @@
    
 - 반복문   
   + while(condition) {script} : 조건 검사 후 조건이 참일 시 구문 반복   
-  + for(define; condition; operation) {script} : 기존 while에 변수 할당 및 가감연산 기능 추가, 보통 정해진 회수만큼 반복할 때 사용   
+  + for(define; condition; operation) {script} : 기존 while에 변수 할당 및 가감연산 기능 추가   
     
 - 배열    
   + arr[index] : 대괄호[] 내에 인덱스를 입력하여 배열의 요소에 접근함.   
@@ -27,5 +27,20 @@
   + 또한 객체 내에서도 함수를 정의할 수 있으며, 이의 경우를 메소드라고 한다.
   
 - js파일 분리 및 불러오기
-  + &lt;script src="path">&lt;/script>를 이용하여 경로에 해당하는 자바스크립트 파일을 불러올 수 있다.
-   
+  + <script src="path"></script>를 이용 
+- 이벤트  
+  - onclick 실행되었을 때
+  - onchange 변했을 때
+  - onkeydown 키입력시
+- 데이터타입 
+```
+데이터를 잘 처리하기 위해 데이터를 구분하는게 필요 > 데이터 타입. 
+자바스크립트에는 6개의 데이터 타입과 객체가 있음 
+콘솔 창에서 바로 코드 작성할 수 있음
+```
+- 이상연산자 중 산술연산자 (+, -, *, /) 
+- 문자열 '~', "~" 
+- .length - 문자열의 길이
+- .toUpperCase() - 대문자로 바꿔줌
+- .indexOf('~') - ~가 몇 번째에 있는가
+- .trim() 공백 지움
