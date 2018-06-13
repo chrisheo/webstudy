@@ -14,4 +14,4 @@
 > meta   읽는 형식  
 > 시작은 <!doctype html>  
 > 속성 <tag ...="..."  ...="...">  
-> 'printf("ex)<img src="주소" width="크기">")'    
+> 'printf(ex)<img src="주소" width="크기">)'    
