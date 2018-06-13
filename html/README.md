@@ -15,5 +15,6 @@
 > 시작은 <!doctype html>  
 > 속성 <tag ...="..."  ...="...">  
   ```
-> 'printf(ex)<img src="주소" width="크기">)'    
+  이미지 가져오기
+Ex)<img src="주소" width="크기">    
 ```
