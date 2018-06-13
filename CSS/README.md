@@ -8,14 +8,14 @@
  - 따라서 웹 개발자들은 보다 풍부한 디자인으로 웹을 설계할 수 있고, 글자의 크기, 글자체, 줄간격, 배경 색상, 배열위치 등을   자유롭게 선택하거나 변경할 수 있으며 유지·보수도 간편하게 할 수 있다.
 """
 - 여백 생성  
-  - margin
-  - padding
+  - 'margin'
+  - 'padding'
 - 박스
-  - display:inline-block
+  - 'display:inline-block'
 - 글자 
-  - color
-  - font-size
-  - text-align
+  - 'color'
+  - 'font-size'
+  - 'text-align'
 - css파일 불러오기
-  - <link rel="stylesheet" href="style.css">
+  - '<link rel="stylesheet" href="style.css">'
 """
