@@ -20,11 +20,11 @@ HTML을 이용해서 웹 페이지를 제작할 경우 전반적인 틀에서 �
   - 'font-size'
   - 'text-align'
 - css파일 불러오기
-  - '<link rel="stylesheet" href="style.css">
+  - &<link rel="stylesheet" href="style.css">&
 - 그리드
   - grid-template-columns 
     - 부모태그로 감싸서 고차원적 디자인
-    - '<div>, <span>'
+    - &<div>&, &<span>&
  
 """
 > Inline style, External style, Internal style
