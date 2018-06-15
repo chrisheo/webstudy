@@ -34,4 +34,4 @@
 1. <a href='address'></a> 웹을 항해할수 있게 해주는 태그
 ```
 ***
-![gd](C:\Users\jftj9\Pictures\Screenshots/html.)
+![html](https://drive.google.com/open?id=1yMWvtAHFpWfD_ZL0bMK8AimPCUvbrFe5 'html')
